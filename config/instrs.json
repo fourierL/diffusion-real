@@ -1,0 +1,9 @@
+[{
+    "task_id": 0,
+    "instr": ["put red block in drawer","put red block in up drawer","open the drawer and put red block in"]
+},
+{
+    "task_id": 1,
+    "instr": ["stack red block on green block","stack red block upon green block","put red block on green block"]
+}
+]

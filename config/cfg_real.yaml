@@ -1,0 +1,29 @@
+vision_feature_dim: &vision_feature_dim 512
+low_obs_dim: &low_obs_dim 7
+
+# TODO: add language
+language_dim: 128
+
+obs_dim: 647
+
+action_dim: 7
+
+obs_horizon: 2
+pred_horizon: 8
+action_horizon: 4
+
+
+batch_size: 16
+num_epochs: 300000
+num_diffusion_iters: 200
+
+instr_num_per_task: 3
+
+
+
+num_eval: 100
+max_steps: 80
+
+rand: False
+
+
