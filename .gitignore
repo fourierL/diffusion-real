@@ -1,6 +1,12 @@
 /.idea
 /ckpts_pushT
 /clip_model
-/rlbench_data
+/rlbench_data/100_trjs_pickandlift
+/rlbench_data/100_trjs_slide
+/rlbench_data/data_npy
+/rlbench_data/microsteps
+/rlbench_data/real
+/rlbench_data/real_drawer
 /vis
 /vis.mp4
+
